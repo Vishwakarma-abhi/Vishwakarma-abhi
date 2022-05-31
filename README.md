@@ -1,7 +1,7 @@
 # 💫About Me :
-👋 Hi, I’m @Vishwakarma-abhi
+👋 Hi, I’m Abhijeet Vishwakarma
 
-👀 I’m interested in OpenCV.
+👀 I’m interested in Flutter Development and OpenCV.
 
 🌱 I’m currently learning Flutter Development
 
