@@ -37,7 +37,6 @@
 ### Backend & APIs
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
@@ -70,9 +69,6 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Vishwakarma-abhi\&theme=radical\&hide_border=false\&include_all_commits=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vishwakarma-abhi\&theme=radical\&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwakarma-abhi\&theme=radical\&hide_border=false\&layout=compact)
 
